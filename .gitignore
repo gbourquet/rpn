@@ -7,3 +7,4 @@
 /.idea/sonarlint/issuestore/index.pb
 /.idea/workspace.xml
 /reverse-polish-notation-zip.iml
+/target/*
